@@ -197,7 +197,7 @@ https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Surge/TiKTok-US.
 
 <img src="png/微信图片_20251005005000_237_229.png" width="30%">
 
-6.生成新证书，，安装证书
+6.生成新证书，安装证书
 
 <img src="png/微信图片_20251005130316_247_229.png" width="30%">
 
